@@ -1,0 +1,44 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color:black;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+  }
+  
+  header {
+    background-color: #333;
+    color: yellow;
+    text-align: center;
+    padding: 20px 0;
+  }
+  
+  main {
+    color:white;
+    max-width: 1500px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  h1, h2 {
+    text-align: center;
+  }
+  
+  img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin: 20px auto;
+  }
+  
+  footer {
+    background-color: #333;
+    color: blue;
+    text-align: center;
+    padding: 10px 0;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+  }
